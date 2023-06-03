@@ -1,4 +1,4 @@
-# XJTUclassroom
+# XJTUClassroom
 一个简单的[西交ehall](ehall.xjtu.edu.cn)爬虫，用于获取空闲教室\
 基于 requests + selenium\
 简单配置后运行 `main.py` 即可，可用于设置定时任务\
